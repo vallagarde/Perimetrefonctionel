@@ -2,8 +2,6 @@ Ensemble des fonctions conjuguées des deux applications:
 
 1- Fonctions essentielles aux deux applications:
 
-coucou c'est moi Sylv1
-
 - Connection aux bases de données
 
 - Gestion compte utilisateur:
