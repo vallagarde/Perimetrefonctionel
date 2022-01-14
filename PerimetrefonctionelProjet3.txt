@@ -1,0 +1,29 @@
+Ensemble des fonctions conjuguées des deux applications:
+
+1- Fonctions essentielles aux deux applications:
+
+- Connection aux bases de données
+
+- Gestion compte utilisateur:
+	- inscription
+	- connection
+	- modification
+
+- Gestion de la création de pages
+
+2- Fonctions uniques:
+
+- Boutique:
+	- panierboutique
+	- ajout articles
+	- gestion du stock
+	
+- Paniers Saisonniers
+	-
+
+- Messagerie
+
+- Forum
+
+
+
