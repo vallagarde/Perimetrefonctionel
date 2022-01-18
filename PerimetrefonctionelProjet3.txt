@@ -19,7 +19,8 @@ Ensemble des fonctions conjuguées des deux applications:
 	- gestion du stock
 	
 - Paniers Saisonniers
-	- Gestion des articles /coucoucoucou
+
+	- Gestion des articles de l'abonnement
 
 - Messagerie
 
