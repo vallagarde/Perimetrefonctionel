@@ -8,23 +8,50 @@ Ensemble des fonctions conjuguées des deux applications:
 	- inscription
 	- connection
 	- modification
+	- suppression
 
-- Gestion de la création de pages
+- Gestion profil type "AMAP"
+
+- Service de création de pages internet (js)
 
 2- Fonctions uniques:
 
 - Boutique:
-	- panierboutique
+	- panier boutique
 	- ajout articles
 	- gestion du stock
 	
 - Paniers Saisonniers
 
-	- Gestion des articles de l'abonnement
+
+- Gestion des articles de l'abonnement
+
 
 - Messagerie
 
 - Forum
 
+------------------ PROPOSITIONS --------------------
 
+- Proposition de recettes hebdomadaires comme un blog autour de thèmes planifiés à l'avance : calendrier des thèmes visible par tous
+
+- Gestion d'évènements et location page web dédiée pour des clients de profil "AMAP" + proposition location lieux de réunion ? (Ajout cartes maps)
+
+- Gestion de campagnes de crowdfunding : service proposé aux entrepreneurs souhaitant récolter des dons pour monter une nouvelle AMAP
+
+-----------------------------------------------------
+3- Fonctions communes aux deux applications:
+		----------------
+
+- Réduction de X % si adhérent chez partenaire
+
+- Accès certaines fonctionnalités si adhérent chez partenaire
+
+-----------------------------------------------------
+4 - Généralisation process AMAP vs projet 2:
+		----------------
+
+- Proposition customisation site : couleur, police
+
+- Proposition création de page internet dédiées à des clients "AMAP" : sorte de location page web contre rémunération mensuelle
 
